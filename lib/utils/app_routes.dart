@@ -7,4 +7,5 @@ class AppRoutes {
   static const String history = '/history';
   static const String profile = '/profile';
   static const String unknown = '/unknown';
+  static const String time = '/time';
 }
